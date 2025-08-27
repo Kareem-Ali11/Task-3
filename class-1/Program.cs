@@ -115,3 +115,11 @@ namespace class_1
         }
     }
 }
+
+//امتي استخدم struct 
+
+//1.لمااجي امثل  بسيطه value
+//  is immutable
+//  instanc size under 16 bit 
+//وكمان هي value type
+// stored in stack
