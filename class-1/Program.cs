@@ -97,7 +97,7 @@ namespace class_1
             Library KareemLibrary = new Library();
             KareemLibrary.AddBook("العادات السبع للناس الأكثر فعالية ", "978-977-09-1234-1", "ستيفن كوفي");
             KareemLibrary.AddBook("رجال من المريخ ونساء من الزهرة ", "978-977-09-5678-2", "جون غرايي");
-            KareemLibrary.AddBook("الأجنحة المتكسرة ", "978-9953-00-1122-3", "جبران خليل جبران");
+            KareemLibrary.AddBook("الأجنحة المتكسرة", "978-9953-00-1122-3", "جبران خليل جبران");
             KareemLibrary.AddBook("أولاد حارتنا", "978-977-09-5566-5", "نجيب محفوظ");
 
 
