@@ -101,7 +101,7 @@ namespace class_1
             KareemLibrary.AddBook("أولاد حارتنا", "978-977-09-5566-5", "نجيب محفوظ");
 
 
-            Console.WriteLine( KareemLibrary.SearchBook("الأجنحة المتكسرة"));
+            Console.WriteLine( KareemLibrary.SearchBook("الأجنحة المتكسرة")); هناهيدينا مش موجود عشانم انا عامل space بعد اسم الكتاب في الاددد
 
          
             Console.WriteLine(KareemLibrary.BorrowBook("978-9953-00-1122-3"));// هنا استعرت كتاب
